@@ -2,7 +2,7 @@ import React from "react"
 
 const Image = () => (
   <img
-    src="https://giphy.com/gifs/jO8V9ymijEYEM/html5"
+    src="https://media.giphy.com/media/jO8V9ymijEYEM/giphy.gif"
     alt="Non sense GIF"
   />
 )
