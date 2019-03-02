@@ -2,7 +2,7 @@ import React from "react"
 
 const Image = () => (
   <img
-    src="https://media1.tenor.com/images/6bb3c16075050655a2c595972c1f8063/tenor.gif"
+    src="https://giphy.com/gifs/jO8V9ymijEYEM/html5"
     alt="Carlton gif"
   />
 )
